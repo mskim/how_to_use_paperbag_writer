@@ -1,5 +1,5 @@
 ---
-:title: Github 에서 수정한 제목 입니다.
+:title: Github 에에서  수정한  제목.
 :subtitle: 여기는 부제목 입니다.
 :author: 여기는 저자명 입니다.
 :quote:

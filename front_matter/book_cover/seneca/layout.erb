@@ -1,0 +1,8 @@
+RLayout::Container.new(fill_color:'clear', width:841.89, height:22.4, layout_direction: 'horizontal') do
+  text("<%= @content[:title] %>", font_size: 16, text_alignment: 'center', layout_length:2, fill_color: 'white')
+  text("<%= @content[:subtitle] %>", font_size: 10, text_alignment: 'center', layout_length:2)
+  text("<%= @content[:author] %>", font_size: 12)
+  text("<%= @content[:publisher] %>", font_size: 9)
+  relayout!
+end
+
